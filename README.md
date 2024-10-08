@@ -7,6 +7,7 @@ AI is a set of technologies that enable computers to perform a variety of advanc
 ## Concepts of AI to learn:
 - ### Machine learning
 - ### Deep learning
+- ### Generative AI (LLMs)
 - ### Data science and analytics
 - ### AI projects
 - ### AI frameworks and tools (TensorFlow, PyTorch, or Scikit-learn)
