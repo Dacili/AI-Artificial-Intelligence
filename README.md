@@ -11,3 +11,8 @@ AI is a set of technologies that enable computers to perform a variety of advanc
 - ### Data science and analytics
 - ### AI projects
 - ### AI frameworks and tools (TensorFlow, PyTorch, or Scikit-learn)
+------
+## 1. Machine learning
+## 2. Deep learning
+## Machine vs deep learning
+> **Deep** learning can **learn from its own errors** while **machine** learning needs a **human to intervene**.
