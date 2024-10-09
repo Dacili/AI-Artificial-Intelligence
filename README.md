@@ -7,7 +7,6 @@ AI is a set of technologies that enable computers to perform a variety of advanc
 ## Concepts of AI to learn:
 - ### Machine learning
 - ### Deep learning
-- ### Data science
 - ### Generative AI (LLMs)
 - ### Data science and analytics
 - ### AI projects
@@ -22,7 +21,7 @@ AI is a set of technologies that enable computers to perform a variety of advanc
 ## Machine vs deep learning
 > **Deep** learning can **learn from its own errors** while **machine** learning needs a **human to intervene**.
 ------
-## 3. Data science
+## 4. Data science and analytics
 <img width="400" src="https://github.com/user-attachments/assets/0e2f39fd-b755-46af-b2d3-709db85fbd46">  
 
 ------
