@@ -43,6 +43,9 @@ Deep learning excels in tasks such as:
 Data analysis involves the process of inspecting, cleaning, transforming, and modeling data to uncover insights, patterns, and trends.  
 Data Science is an interdisciplinary field that combines various techniques and methods from statistics, mathematics, computer science, and domain-specific knowledge to extract insights and knowledge from structured and unstructured data.   
 <img width="400" src="https://github.com/user-attachments/assets/0e2f39fd-b755-46af-b2d3-709db85fbd46">  
+## Data science vs Data Analytics
+While both fields involve working with data to gain insights, **data science** often involves using data to build models that can **predict future outcomes**,  
+while **data analytics** tends to focus more on **analyzing past** data to inform **decisions in the present**.
 
 ------
 
