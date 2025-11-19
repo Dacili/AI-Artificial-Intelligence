@@ -68,6 +68,14 @@ Common NLP tasks include:
 analyzing documents or transcripts of meetings, analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion...
 
 ## Extract data and insights
+**Optical character recognition (OCR)** - converts typed, handwritten, or printed **text, from images into text**.   
+<img width="602" height="360" alt="image" src="https://github.com/user-attachments/assets/8987772d-c9b7-426c-8a79-cffaea637296" />
+
+More advanced models can extract information from audio, images, and videos.  
+
+
+**Common uses** of AI to extract data and insights include:  
+automated processing of forms and other documents, large-scale digitization of data from paper forms,...
 
 ## Responsible AI
 
