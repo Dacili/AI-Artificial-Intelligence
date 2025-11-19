@@ -38,6 +38,18 @@ Computer vision is accomplished by using **large numbers of images to train a mo
 key-word (tag) generation for photographs, visual search, monitoring stock levels or identifying items, security video monitoring, authentication through facial recognition, robotics and self-driving vehicles...
 
 ## Speech
+**Speech recognition (speech-to-text)** is the ability of AI to "hear" and interpret speech, audio -> text.  
+<img width="296" height="133" alt="image" src="https://github.com/user-attachments/assets/bfaaec5c-2b1e-4d26-a3b8-9f7c3cf1a559" />   
+    
+**Speech synthesis (text-to-speech)** is the ability of AI to vocalize words as spoken language, text -> audio.  
+
+AI speech technology is evolving rapidly to handle challenges like ignoring background noise, detecting interruptions, and generating increasingly expressive and human-like voices.   
+
+
+**Common uses** of AI speech technologies include:   
+personal AI assistants, transcription of meetings, audio descriptions of video or text, speech translation between languages...
+
+
 
 ## Natural language processing
 
