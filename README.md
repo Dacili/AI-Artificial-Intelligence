@@ -1,7 +1,32 @@
 # AI - Artificial Intelligence
 ## What is AI?
-AI is a set of technologies that enable computers to perform a variety of advanced functions.  
+AI is a set of technologies that **enable computers to perform a variety of advanced functions**.  
 (Ability to see, understand and translate spoken and written language, analyze data, make recommendations,...)
+
+
+## Generative AI
+A branch of AI that enables software applications to **generate new content**.  
+Content can be: natural language dialogs, images, video, code, and other formats.   
+
+### Language model
+The ability to generate content is based on a **language model**, which has been **trained with huge volumes of data** - often documents from the Internet or other public sources of information.  
+There are 2 types:  
+1. **Large language models (LLMs)** - **very powerful** and generalize well, but can be **more costly** to train and use  
+2. **Small language models (SLMs)** - tend to **work well** in scenarios that are more **focused on specific topic** areas, and usually **cost less**.  
+
+
+## Computer vision
+
+## Speech
+
+## Natural language processing
+
+## Extract data and insights
+
+## Responsible AI
+
+-----
+
 <img width="500" src="https://github.com/user-attachments/assets/33698a58-cf3e-416f-8f9a-9e6394e24b05">  
 https://www.geeksforgeeks.org/ai-ml-ds/?ref=shm  
 https://www.geeksforgeeks.org/machine-learning/  
@@ -13,6 +38,7 @@ https://www.geeksforgeeks.org/machine-learning/
 - ### AI projects
 - ### AI frameworks and tools (TensorFlow, PyTorch, or Scikit-learn)
 ------
+
 ## 1. Machine learning (ML)
 ML enables computers to learn from data and make predictions.   
 ML is the subset of AI that focuses on **the development of algorithms and statistical models** that enable computer systems or machines to perform tasks without being explicitly programmed to do so.  
