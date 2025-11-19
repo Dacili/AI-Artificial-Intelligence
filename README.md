@@ -84,6 +84,7 @@ automated processing of forms and other documents, large-scale digitization of d
 <img width="500" src="https://github.com/user-attachments/assets/33698a58-cf3e-416f-8f9a-9e6394e24b05">  
 https://www.geeksforgeeks.org/ai-ml-ds/?ref=shm  
 https://www.geeksforgeeks.org/machine-learning/  
+
 ## Concepts of AI to learn:
 - ### Machine learning (ML)
 - ### Deep learning (DL)
