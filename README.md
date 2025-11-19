@@ -57,22 +57,15 @@ NLP = enable computers to **understand and communicate with human language**.
 <img width="760" height="680" alt="image" src="https://github.com/user-attachments/assets/6cec9153-7ab0-481a-b66b-880188540a85" />   
   
 Common NLP tasks include:  
-**Entity extraction** - identifying mentions of entities like people, places, organizations in a document    
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/ce280099-dbc9-4036-8d4a-3ad31219b884" />  
+ - **Entity extraction** - identifying mentions of entities like people, places, organizations in a document    
+ - **Text classification** - assigning a document to a specific category.    
+ - **Sentiment analysis** - determining whether a body of text is positive, negative, or neutral and inferring opinions.  
+ - **Language detection** - identifying the language in which text is written.  
 
-**Text classification** - assigning a document to a specific category.    
-**Sentiment analysis** - determining whether a body of text is positive, negative, or neutral and inferring opinions.  
-<img width="683" height="512" alt="image" src="https://github.com/user-attachments/assets/da7bd7e8-0e16-4853-97f5-792e3b595db6" />   
-
-**Language detection** - identifying the language in which text is written.  
-
-
-<img width="763" height="552" alt="image" src="https://github.com/user-attachments/assets/067573cc-5d25-46ef-bfd1-999235f41c34" />
+<img width="918" height="341" alt="image" src="https://github.com/user-attachments/assets/bd60e86a-3bc7-4e6b-ab99-8c5e7ec653ff" />  
 
 **Common uses** of NLP technologies include:  
-Analyzing document or transcripts of calls and meetings to determine key subjects and identify specific mentions of people, places, organizations, products, or other entities.
-Analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion.
-Implementing chatbots that can answer frequently asked questions or orchestrate predictable conversational dialogs that don't require the complexity of generative AI.
+analyzing documents or transcripts of meetings, analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion...
 
 ## Extract data and insights
 
