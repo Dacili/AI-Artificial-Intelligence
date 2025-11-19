@@ -15,8 +15,27 @@ There are 2 types:
 2. **Small language models (SLMs)** - tend to **work well** in scenarios that are more **focused on specific topic** areas, and usually **cost less**.  
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/7bc46439-77c9-4a49-96e8-7e9c10fcc819" />   
 
+      
+**Common uses** of generative AI include:  
+chatbots and AI agents, creating new documents or other content, translation, summarizing, or explaining...
 
 ## Computer vision
+Computer vision is accomplished by using **large numbers of images to train a model**.  
+
+**Image classification** is a form of computer vision in which a model is:  
+- trained with images that are **labeled** with the main subject of the image,  
+- so that it can analyze **unlabeled images** and  
+- identify/**predict the subject** of the image.     
+<img width="509" height="268" alt="image" src="https://github.com/user-attachments/assets/a0eba59c-318d-487b-8dbf-a02c144c0f72" />  
+  
+**Object detection** is a form of computer vision in which the model is trained to **identify** (draw a box around) the location of specific **objects in an image**.  
+<img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/a3775526-db29-485c-8a60-9f3055721f98" />  
+
+**Semantic segmentation** is an advanced form of object detection where, *instead of drawing a box around the subject*, **the model can identify the individual pixels** in the image that belong to a particular object.  
+<img width="896" height="525" alt="image" src="https://github.com/user-attachments/assets/8b786eeb-667e-484f-b213-95b478b1bda8" />  
+
+**Common uses** of computer vision include:  
+key-word (tag) generation for photographs, visual search, monitoring stock levels or identifying items, security video monitoring, authentication through facial recognition, robotics and self-driving vehicles...
 
 ## Speech
 
