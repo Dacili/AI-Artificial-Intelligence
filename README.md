@@ -62,6 +62,8 @@ Common NLP tasks include:
 
 **Text classification** - assigning a document to a specific category.    
 **Sentiment analysis** - determining whether a body of text is positive, negative, or neutral and inferring opinions.  
+<img width="683" height="512" alt="image" src="https://github.com/user-attachments/assets/da7bd7e8-0e16-4853-97f5-792e3b595db6" />   
+
 **Language detection** - identifying the language in which text is written.  
 
 
