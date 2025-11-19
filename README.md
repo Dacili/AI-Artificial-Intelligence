@@ -13,6 +13,7 @@ The ability to generate content is based on a **language model**, which has been
 There are 2 types:  
 1. **Large language models (LLMs)** - **very powerful** and generalize well, but can be **more costly** to train and use  
 2. **Small language models (SLMs)** - tend to **work well** in scenarios that are more **focused on specific topic** areas, and usually **cost less**.  
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/7bc46439-77c9-4a49-96e8-7e9c10fcc819" />   
 
 
 ## Computer vision
