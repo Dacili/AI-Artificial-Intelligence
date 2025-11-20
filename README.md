@@ -78,6 +78,19 @@ More advanced models can extract information from audio, images, and videos.
 automated processing of forms and other documents, large-scale digitization of data from paper forms,...
 
 ## Responsible AI
+### What is bias?
+**Bias**: Occurs when training data is **not representative of the real-world population**.    
+For example, if a facial recognition model is trained mostly on *lighter-skinned* individuals, it may struggle to accurately identify people with *darker skin* tones, **leading to discriminatory outcomes**.  
+
+### Responsible AI principles:
+**Fairness**: *minimize bias* for fairness.  
+**Reliability and safety**: AI is based on probabilistic models, it is not infallible. AI-powered applications need to take this into account and mitigate risks accordingly.  
+**Privacy and security**: don't reveal private personal or organizational details.    
+**Inclusiveness**: AI should be open to everyone; don't exclude some users.  
+**Transparency**: AI can sometimes seem like "magic", but it's important to make users aware of how the system works and any potential limitations it may have.  
+**Accountability**: people and organizations that develop and distribute AI solutions are accountable for their actions.  
+
+![Uploading image.png…]()
 
 -----
 
