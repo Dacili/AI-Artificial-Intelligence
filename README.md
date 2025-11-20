@@ -90,7 +90,8 @@ For example, if a facial recognition model is trained mostly on *lighter-skinned
 **Transparency**: AI can sometimes seem like "magic", but it's important to make users aware of how the system works and any potential limitations it may have.  
 **Accountability**: people and organizations that develop and distribute AI solutions are accountable for their actions.  
 
-![Uploading image.png…]()
+<img width="3300" height="1908" alt="image" src="https://github.com/user-attachments/assets/edba79aa-d705-41d4-a22f-2c0951e5721b" />
+
 
 -----
 
